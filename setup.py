@@ -35,9 +35,9 @@ setup(
         'django-leaflet>=0.19.0',
         'django-modeltranslation>=0.12.2',
         'django-shapes>=0.2.0',
-        'django-tinymce>=2.6.0',
+        'django-tinymce>=2.5.0',
         'django-weasyprint==0.1',  # 0.5.x API changed
-        'djangorestframework>=3.7,<3.9',
+        'djangorestframework>=3.6,<3.9',
         'djangorestframework-gis>=0.11.2',
         'easy-thumbnails>=2.5.0',
         'lxml>=4.2.1',
